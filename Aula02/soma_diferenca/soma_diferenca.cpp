@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int A, B, C, D, diferenca;
+
+    cout << "Insira 4 valores: " << endl;
+    cin >> A >> B >> C >> D;
+
+    diferenca = (A * B - C * D);
+
+    cout << "Resultado = " << diferenca << endl;
+}

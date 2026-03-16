@@ -1,0 +1,1 @@
+Repositório para o armazanamento das ativadades de Linguagem de Programação da turma 34-DS ETE.
