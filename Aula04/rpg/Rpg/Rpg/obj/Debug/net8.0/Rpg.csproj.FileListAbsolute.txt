@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\bin\Debug\net8.0\Rpg.exe
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\bin\Debug\net8.0\Rpg.deps.json
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\bin\Debug\net8.0\Rpg.runtimeconfig.json
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\bin\Debug\net8.0\Rpg.dll
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\bin\Debug\net8.0\Rpg.pdb
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\obj\Debug\net8.0\Rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\obj\Debug\net8.0\Rpg.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\obj\Debug\net8.0\Rpg.AssemblyInfo.cs
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\obj\Debug\net8.0\Rpg.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\obj\Debug\net8.0\Rpg.dll
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\obj\Debug\net8.0\refint\Rpg.dll
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\obj\Debug\net8.0\Rpg.pdb
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\obj\Debug\net8.0\Rpg.genruntimeconfig.cache
+C:\Users\alunos\Desktop\rpg\Rpg\Rpg\obj\Debug\net8.0\ref\Rpg.dll

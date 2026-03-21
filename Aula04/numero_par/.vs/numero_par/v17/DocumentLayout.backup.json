@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alunos\\Desktop\\numero_par\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9947C1B-1611-49FB-8435-3FC02CE98E3D}|numero_par\\numero_par.csproj|c:\\users\\alunos\\desktop\\numero_par\\numero_par\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9947C1B-1611-49FB-8435-3FC02CE98E3D}|numero_par\\numero_par.csproj|solutionrelative:numero_par\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alunos\\Desktop\\numero_par\\numero_par\\Program.cs",
+              "RelativeDocumentMoniker": "numero_par\\Program.cs",
+              "ToolTip": "C:\\Users\\alunos\\Desktop\\numero_par\\numero_par\\Program.cs",
+              "RelativeToolTip": "numero_par\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:23:00.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

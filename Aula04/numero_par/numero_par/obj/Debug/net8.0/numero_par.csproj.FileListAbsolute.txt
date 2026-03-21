@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\numero_par\numero_par\bin\Debug\net8.0\numero_par.exe
+C:\Users\alunos\Desktop\numero_par\numero_par\bin\Debug\net8.0\numero_par.deps.json
+C:\Users\alunos\Desktop\numero_par\numero_par\bin\Debug\net8.0\numero_par.runtimeconfig.json
+C:\Users\alunos\Desktop\numero_par\numero_par\bin\Debug\net8.0\numero_par.dll
+C:\Users\alunos\Desktop\numero_par\numero_par\bin\Debug\net8.0\numero_par.pdb
+C:\Users\alunos\Desktop\numero_par\numero_par\obj\Debug\net8.0\numero_par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\numero_par\numero_par\obj\Debug\net8.0\numero_par.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\numero_par\numero_par\obj\Debug\net8.0\numero_par.AssemblyInfo.cs
+C:\Users\alunos\Desktop\numero_par\numero_par\obj\Debug\net8.0\numero_par.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\numero_par\numero_par\obj\Debug\net8.0\numero_par.dll
+C:\Users\alunos\Desktop\numero_par\numero_par\obj\Debug\net8.0\refint\numero_par.dll
+C:\Users\alunos\Desktop\numero_par\numero_par\obj\Debug\net8.0\numero_par.pdb
+C:\Users\alunos\Desktop\numero_par\numero_par\obj\Debug\net8.0\numero_par.genruntimeconfig.cache
+C:\Users\alunos\Desktop\numero_par\numero_par\obj\Debug\net8.0\ref\numero_par.dll
