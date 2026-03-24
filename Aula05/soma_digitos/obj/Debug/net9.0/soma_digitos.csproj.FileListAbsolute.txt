@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\bin\Debug\net9.0\soma_digitos.exe
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\bin\Debug\net9.0\soma_digitos.deps.json
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\bin\Debug\net9.0\soma_digitos.runtimeconfig.json
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\bin\Debug\net9.0\soma_digitos.dll
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\bin\Debug\net9.0\soma_digitos.pdb
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\obj\Debug\net9.0\soma_digitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\obj\Debug\net9.0\soma_digitos.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\obj\Debug\net9.0\soma_digitos.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\obj\Debug\net9.0\soma_digitos.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\obj\Debug\net9.0\soma_digitos.dll
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\obj\Debug\net9.0\refint\soma_digitos.dll
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\obj\Debug\net9.0\soma_digitos.pdb
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\obj\Debug\net9.0\soma_digitos.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\exercicios_hj\soma_digitos\obj\Debug\net9.0\ref\soma_digitos.dll

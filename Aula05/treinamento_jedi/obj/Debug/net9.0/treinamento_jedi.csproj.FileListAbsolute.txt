@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\bin\Debug\net9.0\treinamento_jedi.exe
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\bin\Debug\net9.0\treinamento_jedi.deps.json
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\bin\Debug\net9.0\treinamento_jedi.runtimeconfig.json
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\bin\Debug\net9.0\treinamento_jedi.dll
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\bin\Debug\net9.0\treinamento_jedi.pdb
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.dll
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\obj\Debug\net9.0\refint\treinamento_jedi.dll
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.pdb
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\obj\Debug\net9.0\treinamento_jedi.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\exercicios_hj\treinamento_jedi\obj\Debug\net9.0\ref\treinamento_jedi.dll

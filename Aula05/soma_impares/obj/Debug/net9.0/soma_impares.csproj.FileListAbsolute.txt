@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\bin\Debug\net9.0\soma_impares.exe
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\bin\Debug\net9.0\soma_impares.deps.json
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\bin\Debug\net9.0\soma_impares.runtimeconfig.json
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\bin\Debug\net9.0\soma_impares.dll
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\bin\Debug\net9.0\soma_impares.pdb
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\obj\Debug\net9.0\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\obj\Debug\net9.0\soma_impares.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\obj\Debug\net9.0\soma_impares.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\obj\Debug\net9.0\soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\obj\Debug\net9.0\soma_impares.dll
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\obj\Debug\net9.0\refint\soma_impares.dll
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\obj\Debug\net9.0\soma_impares.pdb
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\obj\Debug\net9.0\soma_impares.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\exercicios_hj\soma_impares\obj\Debug\net9.0\ref\soma_impares.dll
