@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\bin\Debug\net9.0\selecao_herois.exe
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\bin\Debug\net9.0\selecao_herois.deps.json
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\bin\Debug\net9.0\selecao_herois.runtimeconfig.json
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\bin\Debug\net9.0\selecao_herois.dll
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\bin\Debug\net9.0\selecao_herois.pdb
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\obj\Debug\net9.0\selecao_herois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\obj\Debug\net9.0\selecao_herois.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\obj\Debug\net9.0\selecao_herois.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\obj\Debug\net9.0\selecao_herois.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\obj\Debug\net9.0\selecao_herois.dll
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\obj\Debug\net9.0\refint\selecao_herois.dll
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\obj\Debug\net9.0\selecao_herois.pdb
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\obj\Debug\net9.0\selecao_herois.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\ze_hj\selecao_herois\obj\Debug\net9.0\ref\selecao_herois.dll
