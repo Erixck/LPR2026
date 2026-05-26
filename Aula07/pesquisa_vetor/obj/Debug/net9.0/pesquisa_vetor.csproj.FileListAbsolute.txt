@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\bin\Debug\net9.0\pesquisa_vetor.exe
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\bin\Debug\net9.0\pesquisa_vetor.deps.json
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\bin\Debug\net9.0\pesquisa_vetor.runtimeconfig.json
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\bin\Debug\net9.0\pesquisa_vetor.dll
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\bin\Debug\net9.0\pesquisa_vetor.pdb
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\obj\Debug\net9.0\pesquisa_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\obj\Debug\net9.0\pesquisa_vetor.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\obj\Debug\net9.0\pesquisa_vetor.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\obj\Debug\net9.0\pesquisa_vetor.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\obj\Debug\net9.0\pesquisa_vetor.dll
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\obj\Debug\net9.0\refint\pesquisa_vetor.dll
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\obj\Debug\net9.0\pesquisa_vetor.pdb
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\obj\Debug\net9.0\pesquisa_vetor.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\aula7\pesquisa_vetor\obj\Debug\net9.0\ref\pesquisa_vetor.dll

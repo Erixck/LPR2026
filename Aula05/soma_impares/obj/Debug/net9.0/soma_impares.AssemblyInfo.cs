@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("soma_impares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4056b8329d6bc17c6f215c6e36e24f8ac9e33a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("soma_impares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("soma_impares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
