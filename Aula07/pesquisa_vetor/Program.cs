@@ -7,11 +7,11 @@ Console.WriteLine("Digite 10 números inteiros: ");
 for (int i = 0; i < 10; i++)
 {
     Console.Write($"Número {i + 1}: ");
-    numeros[i] = int.Parse(Console.ReadLine());
+    numeros[i] = int.Parse(Console.ReadLine() ?? "0");
 }
 
 Console.WriteLine("Digite o número que deseja pesquisar: ");
-escolha = int.Parse(Console.ReadLine());
+escolha = int.Parse(Console.ReadLine() ?? "0");
 Console.WriteLine("------------------------------");
 
 for (int i = 0; i < numeros.Length; i++)

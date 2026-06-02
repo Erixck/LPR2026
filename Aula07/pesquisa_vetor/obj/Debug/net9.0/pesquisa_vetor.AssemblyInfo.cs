@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pesquisa_vetor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53041e3ecae0c622b70e70ae4617062e1805f84")]
 [assembly: System.Reflection.AssemblyProductAttribute("pesquisa_vetor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pesquisa_vetor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
