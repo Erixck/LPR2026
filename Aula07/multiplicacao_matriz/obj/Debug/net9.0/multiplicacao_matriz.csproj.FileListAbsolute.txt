@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\bin\Debug\net9.0\multiplicacao_matriz.exe
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\bin\Debug\net9.0\multiplicacao_matriz.deps.json
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\bin\Debug\net9.0\multiplicacao_matriz.runtimeconfig.json
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\bin\Debug\net9.0\multiplicacao_matriz.dll
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\bin\Debug\net9.0\multiplicacao_matriz.pdb
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\obj\Debug\net9.0\multiplicacao_matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\obj\Debug\net9.0\multiplicacao_matriz.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\obj\Debug\net9.0\multiplicacao_matriz.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\obj\Debug\net9.0\multiplicacao_matriz.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\obj\Debug\net9.0\multiplicacao_matriz.dll
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\obj\Debug\net9.0\refint\multiplicacao_matriz.dll
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\obj\Debug\net9.0\multiplicacao_matriz.pdb
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\obj\Debug\net9.0\multiplicacao_matriz.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\matrizes_aula07\multiplicacao_matriz\obj\Debug\net9.0\ref\multiplicacao_matriz.dll
