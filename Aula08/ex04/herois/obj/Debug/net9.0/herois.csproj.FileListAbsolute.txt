@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\structs\ex04\herois\bin\Debug\net9.0\herois.exe
+C:\Users\Alunos\Desktop\structs\ex04\herois\bin\Debug\net9.0\herois.deps.json
+C:\Users\Alunos\Desktop\structs\ex04\herois\bin\Debug\net9.0\herois.runtimeconfig.json
+C:\Users\Alunos\Desktop\structs\ex04\herois\bin\Debug\net9.0\herois.dll
+C:\Users\Alunos\Desktop\structs\ex04\herois\bin\Debug\net9.0\herois.pdb
+C:\Users\Alunos\Desktop\structs\ex04\herois\obj\Debug\net9.0\herois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\structs\ex04\herois\obj\Debug\net9.0\herois.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\structs\ex04\herois\obj\Debug\net9.0\herois.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\structs\ex04\herois\obj\Debug\net9.0\herois.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\structs\ex04\herois\obj\Debug\net9.0\herois.dll
+C:\Users\Alunos\Desktop\structs\ex04\herois\obj\Debug\net9.0\refint\herois.dll
+C:\Users\Alunos\Desktop\structs\ex04\herois\obj\Debug\net9.0\herois.pdb
+C:\Users\Alunos\Desktop\structs\ex04\herois\obj\Debug\net9.0\herois.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\structs\ex04\herois\obj\Debug\net9.0\ref\herois.dll
