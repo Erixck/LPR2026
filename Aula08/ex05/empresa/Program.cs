@@ -29,7 +29,7 @@ class Program
             Console.WriteLine("5 - Sair");
             Console.Write("Escolha uma opção: ");
 
-            opcao = int.Parse(Console.ReadLine());
+            opcao = int.TryParse(Console.ReadLine(), out int parsedOpcao) ? parsedOpcao : 0;
 
             switch (opcao)
             {
@@ -72,19 +72,19 @@ class Program
         Console.WriteLine("\n=== Cadastro de Chamado ===");
 
         Console.Write("Número: ");
-        chamados[quantidade].Numero = int.Parse(Console.ReadLine());
+        chamados[quantidade].Numero = int.TryParse(Console.ReadLine(), out int parsedNumero) ? parsedNumero : 0;
 
         Console.Write("Solicitante: ");
-        chamados[quantidade].Solicitante = Console.ReadLine();
+        chamados[quantidade].Solicitante = Console.ReadLine() ?? string.Empty;
 
         Console.Write("Setor: ");
-        chamados[quantidade].Setor = Console.ReadLine();
+        chamados[quantidade].Setor = Console.ReadLine() ?? string.Empty;
 
         Console.Write("Prioridade (1-Baixa, 2-Média, 3-Alta): ");
-        chamados[quantidade].Prioridade = int.Parse(Console.ReadLine());
+        chamados[quantidade].Prioridade = int.TryParse(Console.ReadLine(), out int parsedPrioridade) ? parsedPrioridade : 0;
 
         Console.Write("Descrição: ");
-        chamados[quantidade].Descricao = Console.ReadLine();
+        chamados[quantidade].Descricao = Console.ReadLine() ?? string.Empty;
 
         chamados[quantidade].Status = "Aberto";
 
@@ -117,7 +117,7 @@ class Program
     static void atualizarStatus()
     {
         Console.Write("\nDigite o número do chamado: ");
-        int numero = int.Parse(Console.ReadLine());
+        int numero = int.TryParse(Console.ReadLine(), out int parsedNumero) ? parsedNumero : 0;
 
         bool encontrado = false;
 
@@ -132,7 +132,7 @@ class Program
                 Console.WriteLine("3 - Cancelado");
                 Console.Write("Novo status: ");
 
-                int opcao = int.Parse(Console.ReadLine());
+                int opcao = int.TryParse(Console.ReadLine(), out int parsedOpcao) ? parsedOpcao : 0;
 
                 switch (opcao)
                 {
