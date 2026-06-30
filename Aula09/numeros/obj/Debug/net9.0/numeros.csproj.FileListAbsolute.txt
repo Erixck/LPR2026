@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\listas\numeros\bin\Debug\net9.0\numeros.exe
+C:\Users\Alunos\Desktop\listas\numeros\bin\Debug\net9.0\numeros.deps.json
+C:\Users\Alunos\Desktop\listas\numeros\bin\Debug\net9.0\numeros.runtimeconfig.json
+C:\Users\Alunos\Desktop\listas\numeros\bin\Debug\net9.0\numeros.dll
+C:\Users\Alunos\Desktop\listas\numeros\bin\Debug\net9.0\numeros.pdb
+C:\Users\Alunos\Desktop\listas\numeros\obj\Debug\net9.0\numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\listas\numeros\obj\Debug\net9.0\numeros.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\listas\numeros\obj\Debug\net9.0\numeros.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\listas\numeros\obj\Debug\net9.0\numeros.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\listas\numeros\obj\Debug\net9.0\numeros.dll
+C:\Users\Alunos\Desktop\listas\numeros\obj\Debug\net9.0\refint\numeros.dll
+C:\Users\Alunos\Desktop\listas\numeros\obj\Debug\net9.0\numeros.pdb
+C:\Users\Alunos\Desktop\listas\numeros\obj\Debug\net9.0\numeros.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\listas\numeros\obj\Debug\net9.0\ref\numeros.dll

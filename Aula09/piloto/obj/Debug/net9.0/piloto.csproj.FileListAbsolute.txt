@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\listas\piloto\bin\Debug\net9.0\piloto.exe
+C:\Users\Alunos\Desktop\listas\piloto\bin\Debug\net9.0\piloto.deps.json
+C:\Users\Alunos\Desktop\listas\piloto\bin\Debug\net9.0\piloto.runtimeconfig.json
+C:\Users\Alunos\Desktop\listas\piloto\bin\Debug\net9.0\piloto.dll
+C:\Users\Alunos\Desktop\listas\piloto\bin\Debug\net9.0\piloto.pdb
+C:\Users\Alunos\Desktop\listas\piloto\obj\Debug\net9.0\piloto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\listas\piloto\obj\Debug\net9.0\piloto.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\listas\piloto\obj\Debug\net9.0\piloto.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\listas\piloto\obj\Debug\net9.0\piloto.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\listas\piloto\obj\Debug\net9.0\piloto.dll
+C:\Users\Alunos\Desktop\listas\piloto\obj\Debug\net9.0\refint\piloto.dll
+C:\Users\Alunos\Desktop\listas\piloto\obj\Debug\net9.0\piloto.pdb
+C:\Users\Alunos\Desktop\listas\piloto\obj\Debug\net9.0\piloto.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\listas\piloto\obj\Debug\net9.0\ref\piloto.dll
